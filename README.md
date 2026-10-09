@@ -1,3 +1,4 @@
+# Final project
 # Emotion Detector
 
 Final project: an AI-based web application that detects emotions (anger, disgust,
